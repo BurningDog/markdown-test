@@ -7,6 +7,8 @@ Objective | To discover what makes me special.
 
 ## Activity
 
+Will this save?
+
 * Let the learners sit on the carpet and tell them that you are going to talk about what makes us all different and special. Ask the learners to talk about what they know. They can start the discussion by talking about what makes us all similar.  
 * Emphasise diversity and the uniqueness of every person.
 * Discuss each child's features:
