@@ -1,13 +1,10 @@
 ### Lesson plan 1
 
-------|----
-Topic | Me
-Theme | What makes me different?
-Objective | To discover what makes me special.
+* **Topic:** Me
+* **Theme:** What makes me different?
+* **Objective:** To discover what makes me special.
 
 ## Activity
-
-Will this save?
 
 * Let the learners sit on the carpet and tell them that you are going to talk about what makes us all different and special. Ask the learners to talk about what they know. They can start the discussion by talking about what makes us all similar.  
 * Emphasise diversity and the uniqueness of every person.
@@ -29,5 +26,5 @@ Have a class list handy to help learners who may struggle with their personal de
 
 ## Additional supportive resources
 
-Poster of a boy and a girl OR pictures of girls and boys taken from old magazines and newspapers.
+Poster of a _boy_ and a girl OR pictures of girls and boys taken from old magazines and newspapers.
 
