@@ -1,16 +1,9 @@
 ### Lesson plan 1
 
-< |  
 ------|----
 Topic | Me
 Theme | What makes me different?
 Objective | To discover what makes me special.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
 
 ## Activity
 
